@@ -1,2 +1,1 @@
-# Asansor-Simulasyonu
- MultiThread-ile-asansor-sistemini-simule-eden-konsol-projesi
+Yazılım dillerinde sık kullanılan Thread yapısının anlaşılması için C++ dili ile multi-thread yapısı kullanılarak yoğunluğa göre devreye alınan ve devre dışı bırakılan bir asansör sistemini simüle eden konsol projesi.
